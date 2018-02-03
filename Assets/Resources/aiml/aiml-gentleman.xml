@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<aiml>
+
+    <category>
+        <pattern>ILE MASZ LAT</pattern>
+        <template>Gentleman nie pyta o wiek.</template>
+    </category>
+    
+    <category>
+        <pattern>JAKI * WIEK</pattern>
+        <template><srai>ILE MASZ LAT</srai></template>
+    </category>
+
+</aiml>
+

@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef44bdd5-a766-46b8-ace9-d8ada9f9c7aa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ChatWindowExampleMobileWeb.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChatWindowExampleMobileWeb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <marker date="1507876414000" expanded="false" signature="6:122" ph="..." />
+                <marker date="1507876414000" expanded="true" signature="123:173" ph="/* Import AIML files within the Resources ... */" />
+                <marker date="1507876414000" expanded="true" signature="230:2920" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="731:1171" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="1230:1244" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="1251:1332" ph="/// Button to send the question to the robot ... " />
+                <marker date="1507876414000" expanded="true" signature="1370:1701" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="1436:1695" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="1740:2311" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2355:2856" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2469:2850" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2495:2739" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2764:2840" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2879:2916" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aiml-info-geografia.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-info-geografia.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aiml-info-polska.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-info-polska.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="92" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aiml-gentleman.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-gentleman.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChatbotMobileWeb.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AIMLBot/MyScripts/ChatbotMobileWeb.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-788">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding>
+                <marker date="1507876414000" expanded="false" signature="6:85" ph="..." />
+                <marker date="1507876414000" expanded="true" signature="87:137" ph="/* Import AIML files within the Resources ... */" />
+                <marker date="1507876414000" expanded="true" signature="170:2905" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="385:470" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="547:786" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="651:734" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="991:1979" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2088:2224" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2254:2463" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2493:2902" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2511:2779" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2807:2896" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bot.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/AIMLBot/AIMLbot/Bot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4140">
+              <caret line="257" column="30" lean-forward="false" selection-start-line="257" selection-start-column="30" selection-end-line="257" selection-end-column="30" />
+              <caret line="256" column="17" lean-forward="false" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+              <caret line="255" column="30" lean-forward="false" selection-start-line="255" selection-start-column="30" selection-end-line="255" selection-end-column="30" />
+              <caret line="254" column="48" lean-forward="false" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+              <caret line="253" column="28" lean-forward="false" selection-start-line="253" selection-start-column="28" selection-end-line="253" selection-end-column="28" />
+              <caret line="252" column="30" lean-forward="false" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
+              <caret line="251" column="45" lean-forward="false" selection-start-line="251" selection-start-column="45" selection-end-line="251" selection-end-column="45" />
+              <caret line="250" column="27" lean-forward="false" selection-start-line="250" selection-start-column="27" selection-end-line="250" selection-end-column="27" />
+              <caret line="249" column="30" lean-forward="false" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
+              <caret line="248" column="47" lean-forward="false" selection-start-line="248" selection-start-column="47" selection-end-line="248" selection-end-column="47" />
+              <caret line="247" column="27" lean-forward="false" selection-start-line="247" selection-start-column="27" selection-end-line="247" selection-end-column="27" />
+              <caret line="246" column="30" lean-forward="false" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
+              <caret line="245" column="46" lean-forward="false" selection-start-line="245" selection-start-column="46" selection-end-line="245" selection-end-column="46" />
+              <folding>
+                <marker date="1507876414000" expanded="false" signature="6:380" ph="..." />
+                <marker date="1507876414000" expanded="true" signature="399:44689" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="406:567" ph="/// Encapsulates a bot. If no settings.xml file is found or referenced the bot will try to ... " />
+                <marker date="1507876414000" expanded="true" signature="588:44687" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="603:10020" ph="Attributes" />
+                <marker date="1507876414000" expanded="true" signature="631:758" ph="/// A dictionary object that looks after all the settings associated with this bot ... " />
+                <marker date="1507876414000" expanded="true" signature="818:934" ph="/// A dictionary of all the gender based substitutions used by this bot ... " />
+                <marker date="1507876414000" expanded="true" signature="999:1126" ph="/// A dictionary of all the first person to second person (and back) substitutions ... " />
+                <marker date="1507876414000" expanded="true" signature="1192:1291" ph="/// A dictionary of first / third person substitutions ... " />
+                <marker date="1507876414000" expanded="true" signature="1356:1475" ph="/// Generic substitutions that take place during the normalization process ... " />
+                <marker date="1507876414000" expanded="true" signature="1534:1626" ph="/// The default predicates to set up for a user ... " />
+                <marker date="1507876414000" expanded="true" signature="1689:1923" ph="/// Holds information about the available custom tag handling classes (if loaded) ... " />
+                <marker date="1507876414000" expanded="true" signature="1992:2115" ph="/// Holds references to the assemblies that hold the custom tag handling code. ... " />
+                <marker date="1507876414000" expanded="true" signature="2230:2395" ph="/// An List&lt;&gt; containing the tokens used to split the input into sentences during the  ... " />
+                <marker date="1507876414000" expanded="true" signature="2465:2604" ph="/// A buffer to hold log messages to be written out to the log file when a max size is reached ... " />
+                <marker date="1507876414000" expanded="true" signature="2675:2780" ph="/// How big to let the log buffer get before writing to disk ... " />
+                <marker date="1507876414000" expanded="true" signature="2817:2974" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2843:2964" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="2984:3088" ph="/// Flag to show if the bot is willing to accept user input ... " />
+                <marker date="1507876414000" expanded="true" signature="3147:3289" ph="/// The message to show if a user tries to use the bot whilst it is set to not process user input ... " />
+                <marker date="1507876414000" expanded="true" signature="3341:3493" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="3367:3483" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="3503:3618" ph="/// The maximum amount of time a request should take (in milliseconds) ... " />
+                <marker date="1507876414000" expanded="true" signature="3648:3797" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="3674:3787" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="3807:3904" ph="/// The message to display in the event of a timeout ... " />
+                <marker date="1507876414000" expanded="true" signature="3941:4079" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="3967:4069" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4089:4183" ph="/// The locale of the bot as a CultureInfo object ... " />
+                <marker date="1507876414000" expanded="true" signature="4217:4365" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4243:4355" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4375:4496" ph="/// Will match all the illegal characters that might be inputted by the user ... " />
+                <marker date="1507876414000" expanded="true" signature="4527:4712" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4553:4702" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4722:4847" ph="/// The email address of the botmaster to be used if WillCallHome is set to true ... " />
+                <marker date="1507876414000" expanded="true" signature="4880:6065" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="4906:5004" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="5020:6055" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="5072:5914" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="5565:5733" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="5758:5896" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="5935:6041" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6075:6181" ph="/// Flag to denote if the bot is writing messages to its logs ... " />
+                <marker date="1507876414000" expanded="true" signature="6211:6567" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6237:6557" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6383:6452" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6473:6543" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6577:6739" ph="/// Flag to denote if the bot will email the botmaster using the AdminEmail setting should an error ... " />
+                <marker date="1507876414000" expanded="true" signature="6772:7137" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6798:7127" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="6953:7022" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="7043:7113" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="7147:7224" ph="/// When the Bot was initialised ... " />
+                <marker date="1507876414000" expanded="true" signature="7284:7360" ph="/// The supposed sex of the bot ... " />
+                <marker date="1507876414000" expanded="true" signature="7386:8091" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="7412:8081" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="7572:8036" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8101:8193" ph="/// The directory to look in for the AIML files ... " />
+                <marker date="1507876414000" expanded="true" signature="8226:8385" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8252:8375" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8395:8508" ph="/// The directory to look in for the various XML configuration files ... " />
+                <marker date="1507876414000" expanded="true" signature="8548:8709" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8574:8699" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8719:8830" ph="/// The directory into which the various log files will be written ... " />
+                <marker date="1507876414000" expanded="true" signature="8863:9021" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="8889:9011" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="9031:9144" ph="/// The number of categories this bot has in its graphmaster &quot;brain&quot; ... " />
+                <marker date="1507876414000" expanded="true" signature="9179:9250" ph="/// The &quot;brain&quot; of the bot ... " />
+                <marker date="1507876414000" expanded="true" signature="9307:9550" ph="/// If set to false the input from AIML files will undergo the same normalization process that ... " />
+                <marker date="1507876414000" expanded="true" signature="9596:9962" ph="/// The maximum number of characters a &quot;that&quot; element of a path is allowed to be. Anything above ... " />
+                <marker date="1507876414000" expanded="true" signature="10030:10119" ph="Delegates" />
+                <marker date="1507876414000" expanded="true" signature="10129:10218" ph="Events" />
+                <marker date="1507876414000" expanded="true" signature="10228:10281" ph="/// Ctor ... " />
+                <marker date="1507876414000" expanded="true" signature="10302:10350" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="10360:22561" ph="Settings methods" />
+                <marker date="1507876414000" expanded="true" signature="10394:10510" ph="/// Loads AIML from .aiml files into the graphmaster &quot;brain&quot; of the bot ... " />
+                <marker date="1507876414000" expanded="true" signature="10550:10655" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="10665:10924" ph="/// Allows the bot to load a new XML version of some AIML ... " />
+                <marker date="1507876414000" expanded="true" signature="10998:11127" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="11137:11264" ph="/// Instantiates the dictionary objects and collections associated with this class ... " />
+                <marker date="1507876414000" expanded="true" signature="11293:11841" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="11851:11971" ph="/// Loads settings based upon the default location of the Settings.xml file ... " />
+                <marker date="1507876414000" expanded="true" signature="12059:12141" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="12070:12099" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="12107:12137" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="12176:12399" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="12409:12752" ph="/// Loads settings and configuration info from various xml files referenced in the settings file passed in the ar ... " />
+                <marker date="1507876414000" expanded="true" signature="12808:19354" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13010:13129" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13197:13292" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13365:13465" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13536:13636" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13706:13816" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="13888:13987" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14057:14149" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14221:14323" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14397:14522" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14593:14723" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14796:14957" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="14974:15068" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="15141:15239" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="15315:15416" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="15487:15582" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="15660:15791" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="15862:15958" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="16035:16145" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="16233:16365" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="16452:16582" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="16669:16799" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="16880:17002" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="17083:17201" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="17278:17379" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="17458:17563" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="17639:17739" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="17819:17921" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="18013:18176" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="18253:18362" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="19364:19581" ph="/// Loads the splitters for this bot from the supplied config file (or sets up some safe defaults) ... " />
+                <marker date="1507876414000" expanded="true" signature="19640:21103" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="19756:20780" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="19907:20131" ph="/* the XML should have an XML declaration like this: ... */" />
+                <marker date="1507876414000" expanded="true" signature="20190:20766" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="20273:20748" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="20384:20726" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="20500:20700" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="20823:21093" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="21170:22541" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="21206:21568" ph="/* XmlDocument splittersXmlDoc = new XmlDocument(); ... */" />
+                <marker date="1507876414000" expanded="true" signature="21627:22203" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="21710:22185" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="21821:22163" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="21937:22137" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="22261:22531" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="22571:24503" ph="Logging methods" />
+                <marker date="1507876414000" expanded="true" signature="22604:22719" ph="/// The last message to be entered into the log (for testing purposes) ... " />
+                <marker date="1507876414000" expanded="true" signature="22780:23004" ph="/// Writes a (timestamped) message to the bot's log. ... " />
+                <marker date="1507876414000" expanded="true" signature="23051:24483" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="23136:24351" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="23318:24337" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="23512:23603" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="23865:23964" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="23989:24088" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="24148:24239" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="24408:24473" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="24513:38898" ph="Conversation methods" />
+                <marker date="1507876414000" expanded="true" signature="24551:24894" ph="/// Given some raw input and a unique ID creates a response for a new user ... " />
+                <marker date="1507876414000" expanded="true" signature="24955:25099" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="25109:25362" ph="/// Given a request containing user input, produces a result from the bot ... " />
+                <marker date="1507876414000" expanded="true" signature="25406:28124" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="25529:27811" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="25888:26159" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="26309:26587" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="26715:27797" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="26784:27779" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="26834:27294" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="27132:27268" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="27338:27757" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="27415:27543" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="27828:27935" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="28134:28646" ph="/// Recursively evaluates the template nodes returned from the bot ... " />
+                <marker date="1507876414000" expanded="true" signature="28754:37301" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="28910:29206" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="29352:29832" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="29474:29768" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="29600:29750" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="29849:37291" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="30052:35448" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="30107:35430" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35501:35580" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35601:37277" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35667:36310" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35737:36233" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35887:36207" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="35993:36177" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="36335:37259" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="36599:37100" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="36836:37011" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="37129:37237" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="37311:37856" ph="/// Searches the CustomTag collection and processes the AIML if an appropriate tag handler is found ... " />
+                <marker date="1507876414000" expanded="true" signature="37974:38878" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="38050:38794" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="38318:38387" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="38408:38780" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="38811:38868" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="38908:40216" ph="Serialization" />
+                <marker date="1507876414000" expanded="true" signature="38939:39184" ph="/// Saves the graphmaster node (and children) to a binary file to avoid processing the AIML each time the  ... " />
+                <marker date="1507876414000" expanded="true" signature="39234:39717" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="39380:39513" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="39727:39928" ph="/// Loads a dump of the graphmaster into memory so avoiding processing the AIML files again ... " />
+                <marker date="1507876414000" expanded="true" signature="39980:40204" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="40218:42458" ph="Latebinding custom-tag dll handlers" />
+                <marker date="1507876414000" expanded="true" signature="40271:40497" ph="/// Loads any custom tag handlers found in the dll referenced in the argument ... " />
+                <marker date="1507876414000" expanded="true" signature="40557:42447" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="40736:42437" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="40911:42423" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="41000:42405" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="41047:41310" ph="/* We've found a custom tag handling class ... */" />
+                <marker date="1507876414000" expanded="true" signature="41396:41533" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="41971:42215" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="42244:42383" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="42460:44681" ph="Phone Home" />
+                <marker date="1507876414000" expanded="true" signature="42487:42864" ph="/// Attempts to send an email to the botmaster at the AdminEmail address setting with error messages ... " />
+                <marker date="1507876414000" expanded="true" signature="42932:44669" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="44106:44190" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="44340:44538" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="44392:44524" ph="{...}" />
+                <marker date="1507876414000" expanded="true" signature="44556:44652" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/AIMLBot/AIMLbot/Bot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChatWindowExampleMobileWeb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AIMLBot/MyScripts/ChatbotMobileWeb.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/AIMLBot/MyScripts/ChatbotPC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChatWindowExamplePC.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/aiml/Mine.xml" />
+        <option value="$PROJECT_DIR$/Assets/Resources/aiml/aiml-info-polska.xml" />
+        <option value="$PROJECT_DIR$/Assets/Resources/aiml/aiml-gentleman.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChatbotGentlemen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="ChatbotGentlemen (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef44bdd5-a766-46b8-ace9-d8ada9f9c7aa" name="Default" comment="" />
+      <created>1517674591888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517674591888</updated>
+      <workItem from="1517674601616" duration="3297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3297000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/AIMLBot/MyScripts/ChatbotPC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AIMLBot/AIMLbot/Bot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4140">
+          <caret line="257" column="30" lean-forward="false" selection-start-line="257" selection-start-column="30" selection-end-line="257" selection-end-column="30" />
+          <caret line="256" column="17" lean-forward="false" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
+          <caret line="255" column="30" lean-forward="false" selection-start-line="255" selection-start-column="30" selection-end-line="255" selection-end-column="30" />
+          <caret line="254" column="48" lean-forward="false" selection-start-line="254" selection-start-column="48" selection-end-line="254" selection-end-column="48" />
+          <caret line="253" column="28" lean-forward="false" selection-start-line="253" selection-start-column="28" selection-end-line="253" selection-end-column="28" />
+          <caret line="252" column="30" lean-forward="false" selection-start-line="252" selection-start-column="30" selection-end-line="252" selection-end-column="30" />
+          <caret line="251" column="45" lean-forward="false" selection-start-line="251" selection-start-column="45" selection-end-line="251" selection-end-column="45" />
+          <caret line="250" column="27" lean-forward="false" selection-start-line="250" selection-start-column="27" selection-end-line="250" selection-end-column="27" />
+          <caret line="249" column="30" lean-forward="false" selection-start-line="249" selection-start-column="30" selection-end-line="249" selection-end-column="30" />
+          <caret line="248" column="47" lean-forward="false" selection-start-line="248" selection-start-column="47" selection-end-line="248" selection-end-column="47" />
+          <caret line="247" column="27" lean-forward="false" selection-start-line="247" selection-start-column="27" selection-end-line="247" selection-end-column="27" />
+          <caret line="246" column="30" lean-forward="false" selection-start-line="246" selection-start-column="30" selection-end-line="246" selection-end-column="30" />
+          <caret line="245" column="46" lean-forward="false" selection-start-line="245" selection-start-column="46" selection-end-line="245" selection-end-column="46" />
+          <folding>
+            <marker date="1507876414000" expanded="false" signature="6:380" ph="..." />
+            <marker date="1507876414000" expanded="true" signature="399:44689" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="406:567" ph="/// Encapsulates a bot. If no settings.xml file is found or referenced the bot will try to ... " />
+            <marker date="1507876414000" expanded="true" signature="588:44687" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="603:10020" ph="Attributes" />
+            <marker date="1507876414000" expanded="true" signature="631:758" ph="/// A dictionary object that looks after all the settings associated with this bot ... " />
+            <marker date="1507876414000" expanded="true" signature="818:934" ph="/// A dictionary of all the gender based substitutions used by this bot ... " />
+            <marker date="1507876414000" expanded="true" signature="999:1126" ph="/// A dictionary of all the first person to second person (and back) substitutions ... " />
+            <marker date="1507876414000" expanded="true" signature="1192:1291" ph="/// A dictionary of first / third person substitutions ... " />
+            <marker date="1507876414000" expanded="true" signature="1356:1475" ph="/// Generic substitutions that take place during the normalization process ... " />
+            <marker date="1507876414000" expanded="true" signature="1534:1626" ph="/// The default predicates to set up for a user ... " />
+            <marker date="1507876414000" expanded="true" signature="1689:1923" ph="/// Holds information about the available custom tag handling classes (if loaded) ... " />
+            <marker date="1507876414000" expanded="true" signature="1992:2115" ph="/// Holds references to the assemblies that hold the custom tag handling code. ... " />
+            <marker date="1507876414000" expanded="true" signature="2230:2395" ph="/// An List&lt;&gt; containing the tokens used to split the input into sentences during the  ... " />
+            <marker date="1507876414000" expanded="true" signature="2465:2604" ph="/// A buffer to hold log messages to be written out to the log file when a max size is reached ... " />
+            <marker date="1507876414000" expanded="true" signature="2675:2780" ph="/// How big to let the log buffer get before writing to disk ... " />
+            <marker date="1507876414000" expanded="true" signature="2817:2974" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2843:2964" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2984:3088" ph="/// Flag to show if the bot is willing to accept user input ... " />
+            <marker date="1507876414000" expanded="true" signature="3147:3289" ph="/// The message to show if a user tries to use the bot whilst it is set to not process user input ... " />
+            <marker date="1507876414000" expanded="true" signature="3341:3493" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="3367:3483" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="3503:3618" ph="/// The maximum amount of time a request should take (in milliseconds) ... " />
+            <marker date="1507876414000" expanded="true" signature="3648:3797" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="3674:3787" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="3807:3904" ph="/// The message to display in the event of a timeout ... " />
+            <marker date="1507876414000" expanded="true" signature="3941:4079" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="3967:4069" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4089:4183" ph="/// The locale of the bot as a CultureInfo object ... " />
+            <marker date="1507876414000" expanded="true" signature="4217:4365" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4243:4355" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4375:4496" ph="/// Will match all the illegal characters that might be inputted by the user ... " />
+            <marker date="1507876414000" expanded="true" signature="4527:4712" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4553:4702" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4722:4847" ph="/// The email address of the botmaster to be used if WillCallHome is set to true ... " />
+            <marker date="1507876414000" expanded="true" signature="4880:6065" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="4906:5004" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="5020:6055" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="5072:5914" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="5565:5733" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="5758:5896" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="5935:6041" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6075:6181" ph="/// Flag to denote if the bot is writing messages to its logs ... " />
+            <marker date="1507876414000" expanded="true" signature="6211:6567" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6237:6557" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6383:6452" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6473:6543" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6577:6739" ph="/// Flag to denote if the bot will email the botmaster using the AdminEmail setting should an error ... " />
+            <marker date="1507876414000" expanded="true" signature="6772:7137" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6798:7127" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="6953:7022" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="7043:7113" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="7147:7224" ph="/// When the Bot was initialised ... " />
+            <marker date="1507876414000" expanded="true" signature="7284:7360" ph="/// The supposed sex of the bot ... " />
+            <marker date="1507876414000" expanded="true" signature="7386:8091" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="7412:8081" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="7572:8036" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8101:8193" ph="/// The directory to look in for the AIML files ... " />
+            <marker date="1507876414000" expanded="true" signature="8226:8385" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8252:8375" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8395:8508" ph="/// The directory to look in for the various XML configuration files ... " />
+            <marker date="1507876414000" expanded="true" signature="8548:8709" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8574:8699" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8719:8830" ph="/// The directory into which the various log files will be written ... " />
+            <marker date="1507876414000" expanded="true" signature="8863:9021" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="8889:9011" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="9031:9144" ph="/// The number of categories this bot has in its graphmaster &quot;brain&quot; ... " />
+            <marker date="1507876414000" expanded="true" signature="9179:9250" ph="/// The &quot;brain&quot; of the bot ... " />
+            <marker date="1507876414000" expanded="true" signature="9307:9550" ph="/// If set to false the input from AIML files will undergo the same normalization process that ... " />
+            <marker date="1507876414000" expanded="true" signature="9596:9962" ph="/// The maximum number of characters a &quot;that&quot; element of a path is allowed to be. Anything above ... " />
+            <marker date="1507876414000" expanded="true" signature="10030:10119" ph="Delegates" />
+            <marker date="1507876414000" expanded="true" signature="10129:10218" ph="Events" />
+            <marker date="1507876414000" expanded="true" signature="10228:10281" ph="/// Ctor ... " />
+            <marker date="1507876414000" expanded="true" signature="10302:10350" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="10360:22561" ph="Settings methods" />
+            <marker date="1507876414000" expanded="true" signature="10394:10510" ph="/// Loads AIML from .aiml files into the graphmaster &quot;brain&quot; of the bot ... " />
+            <marker date="1507876414000" expanded="true" signature="10550:10655" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="10665:10924" ph="/// Allows the bot to load a new XML version of some AIML ... " />
+            <marker date="1507876414000" expanded="true" signature="10998:11127" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="11137:11264" ph="/// Instantiates the dictionary objects and collections associated with this class ... " />
+            <marker date="1507876414000" expanded="true" signature="11293:11841" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="11851:11971" ph="/// Loads settings based upon the default location of the Settings.xml file ... " />
+            <marker date="1507876414000" expanded="true" signature="12059:12141" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="12070:12099" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="12107:12137" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="12176:12399" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="12409:12752" ph="/// Loads settings and configuration info from various xml files referenced in the settings file passed in the ar ... " />
+            <marker date="1507876414000" expanded="true" signature="12808:19354" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13010:13129" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13197:13292" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13365:13465" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13536:13636" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13706:13816" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="13888:13987" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14057:14149" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14221:14323" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14397:14522" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14593:14723" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14796:14957" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="14974:15068" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="15141:15239" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="15315:15416" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="15487:15582" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="15660:15791" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="15862:15958" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="16035:16145" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="16233:16365" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="16452:16582" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="16669:16799" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="16880:17002" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="17083:17201" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="17278:17379" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="17458:17563" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="17639:17739" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="17819:17921" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="18013:18176" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="18253:18362" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="19364:19581" ph="/// Loads the splitters for this bot from the supplied config file (or sets up some safe defaults) ... " />
+            <marker date="1507876414000" expanded="true" signature="19640:21103" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="19756:20780" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="19907:20131" ph="/* the XML should have an XML declaration like this: ... */" />
+            <marker date="1507876414000" expanded="true" signature="20190:20766" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="20273:20748" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="20384:20726" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="20500:20700" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="20823:21093" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="21170:22541" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="21206:21568" ph="/* XmlDocument splittersXmlDoc = new XmlDocument(); ... */" />
+            <marker date="1507876414000" expanded="true" signature="21627:22203" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="21710:22185" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="21821:22163" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="21937:22137" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="22261:22531" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="22571:24503" ph="Logging methods" />
+            <marker date="1507876414000" expanded="true" signature="22604:22719" ph="/// The last message to be entered into the log (for testing purposes) ... " />
+            <marker date="1507876414000" expanded="true" signature="22780:23004" ph="/// Writes a (timestamped) message to the bot's log. ... " />
+            <marker date="1507876414000" expanded="true" signature="23051:24483" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="23136:24351" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="23318:24337" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="23512:23603" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="23865:23964" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="23989:24088" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="24148:24239" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="24408:24473" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="24513:38898" ph="Conversation methods" />
+            <marker date="1507876414000" expanded="true" signature="24551:24894" ph="/// Given some raw input and a unique ID creates a response for a new user ... " />
+            <marker date="1507876414000" expanded="true" signature="24955:25099" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="25109:25362" ph="/// Given a request containing user input, produces a result from the bot ... " />
+            <marker date="1507876414000" expanded="true" signature="25406:28124" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="25529:27811" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="25888:26159" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="26309:26587" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="26715:27797" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="26784:27779" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="26834:27294" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="27132:27268" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="27338:27757" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="27415:27543" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="27828:27935" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="28134:28646" ph="/// Recursively evaluates the template nodes returned from the bot ... " />
+            <marker date="1507876414000" expanded="true" signature="28754:37301" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="28910:29206" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="29352:29832" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="29474:29768" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="29600:29750" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="29849:37291" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="30052:35448" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="30107:35430" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35501:35580" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35601:37277" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35667:36310" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35737:36233" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35887:36207" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="35993:36177" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="36335:37259" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="36599:37100" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="36836:37011" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="37129:37237" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="37311:37856" ph="/// Searches the CustomTag collection and processes the AIML if an appropriate tag handler is found ... " />
+            <marker date="1507876414000" expanded="true" signature="37974:38878" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="38050:38794" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="38318:38387" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="38408:38780" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="38811:38868" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="38908:40216" ph="Serialization" />
+            <marker date="1507876414000" expanded="true" signature="38939:39184" ph="/// Saves the graphmaster node (and children) to a binary file to avoid processing the AIML each time the  ... " />
+            <marker date="1507876414000" expanded="true" signature="39234:39717" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="39380:39513" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="39727:39928" ph="/// Loads a dump of the graphmaster into memory so avoiding processing the AIML files again ... " />
+            <marker date="1507876414000" expanded="true" signature="39980:40204" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="40218:42458" ph="Latebinding custom-tag dll handlers" />
+            <marker date="1507876414000" expanded="true" signature="40271:40497" ph="/// Loads any custom tag handlers found in the dll referenced in the argument ... " />
+            <marker date="1507876414000" expanded="true" signature="40557:42447" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="40736:42437" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="40911:42423" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="41000:42405" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="41047:41310" ph="/* We've found a custom tag handling class ... */" />
+            <marker date="1507876414000" expanded="true" signature="41396:41533" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="41971:42215" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="42244:42383" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="42460:44681" ph="Phone Home" />
+            <marker date="1507876414000" expanded="true" signature="42487:42864" ph="/// Attempts to send an email to the botmaster at the AdminEmail address setting with error messages ... " />
+            <marker date="1507876414000" expanded="true" signature="42932:44669" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="44106:44190" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="44340:44538" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="44392:44524" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="44556:44652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChatWindowExamplePC.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AIMLBot/MyScripts/ChatbotMobileWeb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-788">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <marker date="1507876414000" expanded="false" signature="6:85" ph="..." />
+            <marker date="1507876414000" expanded="true" signature="87:137" ph="/* Import AIML files within the Resources ... */" />
+            <marker date="1507876414000" expanded="true" signature="170:2905" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="385:470" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="547:786" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="651:734" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="991:1979" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2088:2224" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2254:2463" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2493:2902" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2511:2779" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2807:2896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/Mine.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-potwierdzenia.aiml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-851">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChatWindowExampleMobileWeb.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+          <folding>
+            <marker date="1507876414000" expanded="false" signature="6:122" ph="..." />
+            <marker date="1507876414000" expanded="true" signature="123:173" ph="/* Import AIML files within the Resources ... */" />
+            <marker date="1507876414000" expanded="true" signature="230:2920" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="731:1171" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="1230:1244" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="1251:1332" ph="/// Button to send the question to the robot ... " />
+            <marker date="1507876414000" expanded="true" signature="1370:1701" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="1436:1695" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="1740:2311" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2355:2856" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2469:2850" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2495:2739" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2764:2840" ph="{...}" />
+            <marker date="1507876414000" expanded="true" signature="2879:2916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-info-polska.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="92" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-info-geografia.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/aiml/aiml-gentleman.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

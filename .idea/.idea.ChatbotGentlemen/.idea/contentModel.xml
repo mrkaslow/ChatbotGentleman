@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\rslowinski\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_ChatbotGentlemen.305465843.00" t="ExcludeRecursive" />
+    <e p="C:\Users\rslowinski\Desktop\Moja gra\ChatbotGentlemen" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AIMLBot" t="Include">
+          <e p="AIMLBot" t="Include">
+            <e p="AIMLTagHandlers" t="Include">
+              <e p="bot.cs" t="Include" />
+              <e p="condition.cs" t="Include" />
+              <e p="date.cs" t="Include" />
+              <e p="formal.cs" t="Include" />
+              <e p="gender.cs" t="Include" />
+              <e p="get.cs" t="Include" />
+              <e p="gossip.cs" t="Include" />
+              <e p="id.cs" t="Include" />
+              <e p="input.cs" t="Include" />
+              <e p="javascript.cs" t="Include" />
+              <e p="learn.cs" t="Include" />
+              <e p="lowercase.cs" t="Include" />
+              <e p="person.cs" t="Include" />
+              <e p="person2.cs" t="Include" />
+              <e p="random.cs" t="Include" />
+              <e p="sentence.cs" t="Include" />
+              <e p="set.cs" t="Include" />
+              <e p="size.cs" t="Include" />
+              <e p="sr.cs" t="Include" />
+              <e p="srai.cs" t="Include" />
+              <e p="star.cs" t="Include" />
+              <e p="system.cs" t="Include" />
+              <e p="that.cs" t="Include" />
+              <e p="thatstar.cs" t="Include" />
+              <e p="think.cs" t="Include" />
+              <e p="topicstar.cs" t="Include" />
+              <e p="uppercase.cs" t="Include" />
+              <e p="version.cs" t="Include" />
+            </e>
+            <e p="bot.cs" t="Include" />
+            <e p="ConfigurationFiles" t="Include">
+              <e p="DefaultPredicates.xml" t="Include" />
+              <e p="GenderSubstitutions.xml" t="Include" />
+              <e p="Person2Substitutions.xml" t="Include" />
+              <e p="PersonSubstitutions.xml" t="Include" />
+              <e p="Settings.xml" t="Include" />
+              <e p="Splitters.xml" t="Include" />
+              <e p="Substitutions.xml" t="Include" />
+            </e>
+            <e p="Normalize" t="Include">
+              <e p="ApplySubstitutions.cs" t="Include" />
+              <e p="MakeCaseInsensitive.cs" t="Include" />
+              <e p="SplitIntoSentences.cs" t="Include" />
+              <e p="StripIllegalCharacters.cs" t="Include" />
+            </e>
+            <e p="Properties" t="Include">
+              <e p="AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="Request.cs" t="Include" />
+            <e p="Result.cs" t="Include" />
+            <e p="User.cs" t="Include" />
+            <e p="Utils" t="Include">
+              <e p="AIMLLoader.cs" t="Include" />
+              <e p="AIMLTagHandler.cs" t="Include" />
+              <e p="CustomTag.cs" t="Include" />
+              <e p="gender.cs" t="Include" />
+              <e p="MatchState.cs" t="Include" />
+              <e p="Node.cs" t="Include" />
+              <e p="SettingsDictionary.cs" t="Include" />
+              <e p="SubQuery.cs" t="Include" />
+              <e p="TagHandler.cs" t="Include" />
+              <e p="TextTransformer.cs" t="Include" />
+            </e>
+          </e>
+          <e p="MyScripts" t="Include">
+            <e p="Chatbot.cs" t="Include" />
+            <e p="ChatbotMobileWeb.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="aiml" t="Include">
+            <e p="aiml-gentleman.xml" t="Include" />
+            <e p="aiml-info-geografia.xml" t="Include" />
+            <e p="aiml-info-polska.xml" t="Include" />
+            <e p="aiml-info-poznan.xml" t="Include" />
+            <e p="aiml-podroze.xml" t="Include" />
+            <e p="aiml-podstawy.xml" t="Include" />
+            <e p="aiml-potwierdzenia.xml" t="Include" />
+            <e p="aiml-powitanie.xml" t="Include" />
+            <e p="aiml-pozegnanie.xml" t="Include" />
+            <e p="aiml-przekierowania.xml" t="Include" />
+            <e p="aiml-pytania-czy.xml" t="Include" />
+            <e p="aiml-pytania-dlaczego.xml" t="Include" />
+            <e p="aiml-pytania-kiedy.xml" t="Include" />
+            <e p="aiml-pytania-ktory.xml" t="Include" />
+            <e p="aiml-synonimy.xml" t="Include" />
+            <e p="aiml-zakupy.xml" t="Include" />
+          </e>
+          <e p="config" t="Include">
+            <e p="DefaultPredicates.xml" t="Include" />
+            <e p="GenderSubstitutions.xml" t="Include" />
+            <e p="Person2Substitutions.xml" t="Include" />
+            <e p="PersonSubstitutions.xml" t="Include" />
+            <e p="Settings.xml" t="Include" />
+            <e p="Splitters.xml" t="Include" />
+            <e p="Substitutions.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ChatbotManager.cs" t="Include" />
+          <e p="ChatWindowExampleMobileWeb.cs" t="Include" />
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="config" t="Include">
+            <e p="DefaultPredicates.xml" t="Include" />
+            <e p="GenderSubstitutions.xml" t="Include" />
+            <e p="Person2Substitutions.xml" t="Include" />
+            <e p="PersonSubstitutions.xml" t="Include" />
+            <e p="Settings.xml" t="Include" />
+            <e p="Splitters.xml" t="Include" />
+            <e p="Substitutions.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ChatbotGentlemen.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
