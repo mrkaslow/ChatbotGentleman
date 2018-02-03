@@ -8,7 +8,7 @@
     </category>
     
     <category>
-        <pattern>JAKI * WIEK</pattern>
+        <pattern> * WIEK</pattern>
         <template><srai>ILE MASZ LAT</srai></template>
     </category>
 

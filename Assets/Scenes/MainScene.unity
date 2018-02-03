@@ -534,7 +534,7 @@ MonoBehaviour:
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1569708679}
         m_MethodName: SendQuestionToRobot
         m_Mode: 1
         m_Arguments:
