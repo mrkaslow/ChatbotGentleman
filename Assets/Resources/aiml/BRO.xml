@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+    <!---->
+	<category>
+        <pattern>HOES</pattern>
+		<template>Bros before Hoes - A 'Hoe' is defined as any woman that is not your wife or direct family</template>
+	</category>	
+    <!---->
+    <category>
+        <pattern>* HOES *</pattern>
+		<template><srai>HOES</srai></template>
+	</category>    
+    <category>
+        <pattern>* HOES</pattern>
+        <template><srai>HOES</srai></template>
+    </category>
+    <category>
+        <pattern>HOES *</pattern>
+        <template><srai>HOES</srai></template>
+    </category>    
+    <category>
+        <pattern>* 1</pattern>
+        <template><srai>HOES</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>STUPID</pattern>
+        <template>
+            <random>
+                <li>A Bro is always allowed to do something stupid as long as his Bros are doing it.</li>
+                <li>When a Bro wants to do something stupid, you film it.</li>
+            </random>
+        </template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* STUPID *</pattern>
+        <template><srai>STUPID</srai></template>
+    </category>
+    <category>
+        <pattern>* STUPID</pattern>
+        <template><srai>STUPID</srai></template>
+    </category>
+    <category>
+        <pattern>STUPID *</pattern>
+        <template><srai>STUPID</srai></template>
+    </category>
+    <category>
+        <pattern>* 2</pattern>
+        <template><srai>STUPID</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>DOGS</pattern>
+        <template>If a Bro gets a dog it must be at least knee height when fully grown.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* DOGS *</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>* DOGS</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>DOGS *</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>* DOG *</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>* DOG</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>DOG *</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    <category>
+        <pattern>* 3</pattern>
+        <template><srai>DOGS</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>SPORT</pattern>
+        <template>Whether a Bro is into sports or not they pick a team and support them until their dying breath.</template>
+    </category>
+    <category>
+        <pattern>* SPORT *</pattern>
+        <template><srai>SPORT</srai></template>
+    </category>
+    <category>
+        <pattern>* SPORT</pattern>
+        <template><srai>SPORT</srai></template>
+    </category>
+    <category>
+        <pattern>SPORT *</pattern>
+        <template><srai>SPORT</srai></template>
+    </category>
+    <category>
+        <pattern>* 4</pattern>
+        <template><srai>SPORT</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>* BIRTHDAY *</pattern>
+        <template>
+            <random>
+                <li>A Bro never sends a birthday card to another Bro.</li>
+                <li>A Bro is not required to remember another Bro's birthday.</li>
+            </random>
+        </template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* BIRTHDAY *</pattern>
+        <template><srai>BIRTHDAY</srai></template>
+    </category>
+    <category>
+        <pattern>* BIRTHDAY</pattern>
+        <template><srai>BIRTHDAY</srai></template>
+    </category>
+    <category>
+        <pattern>BIRTHDAY *</pattern>
+        <template><srai>BIRTHDAY</srai></template>
+    </category>
+    <category>
+        <pattern>* 5</pattern>
+        <template><srai>BIRTHDAY</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>HELP</pattern>
+        <template>A Bro is honour-bound to aid his Bros with DIY and moving house.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* HELP *</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
+        <pattern>* HELP</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
+        <pattern>HELP *</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
+        <pattern>* 6</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>DESSERT</pattern>
+        <template>Bros do not share dessert.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* DESSERT *</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>
+    <category>
+        <pattern>* DESSERT</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>
+    <category>
+        <pattern>DESSERT *</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>    
+    <category>
+        <pattern>* FOOD *</pattern>
+        <template>
+            <random>
+                <li><srai>DESSERT</srai></li>
+                <li>A Bro is never vegan.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>* FOOD</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>
+    <category>
+        <pattern>FOOD *</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>
+    <category>
+        <pattern>* 7</pattern>
+        <template><srai>DESSERT</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>DANCE</pattern>
+        <template>A Bro never dances with their hands above their head.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* DANCE *</pattern>
+        <template><srai>DANCE</srai></template>
+    </category>
+    <category>
+        <pattern>* DANCE</pattern>
+        <template><srai>DANCE</srai></template>
+    </category>
+    <category>
+        <pattern>DANCE *</pattern>
+        <template><srai>DANCE</srai></template>
+    </category>
+    <category>
+        <pattern>* 8</pattern>
+        <template><srai>DANCE</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>MARRIAGE</pattern>
+        <template>A Bro doesn't allow another Bro to get married until they are at least thirty years old.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* MARRIAGE *</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>* MARRIAGE</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>MARRIAGE *</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>* WIFE *</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>* WIFE</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>WIFE *</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    <category>
+        <pattern>* 9</pattern>
+        <template><srai>MARRIAGE</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>FORBIDDEN</pattern>
+        <template>Even in a fight to the death a Bro never punches another Bro in the groin.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* FORBIDDEN *</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>* FORBIDDEN</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>FORBIDDEN *</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>* FIGHT *</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>* FIGHT</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>FIGHT *</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    <category>
+        <pattern>* 10</pattern>
+        <template><srai>FORBIDDEN</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>NEVER</pattern>
+        <template>
+            <random>
+                <li>A Bro never cries.</li>
+                <li>A Bro never applies sunscreen to another Bro</li>
+                <li>A Bro never wears pink underwear.</li>
+                <li>A Bro never publicly reveals how many people another Bro has slept with.</li>
+                <li>A Bro is never vegan.</li>
+                <li>It is never acceptable for a Bro to sleep with another Bro's ex.</li>
+                <li>A Bro never gives another Bro the silent treatment.</li>
+                <li>A Bro never asks another Bro to come with them to the bathroom</li>
+                <li>A bro cannot give another bro a teddy bear.</li>
+                <li>Bros never use the term 'YOLO'</li>
+                <li>A Bro never makes eye-contact with another Bro while eating a banana.</li>
+                <li>Bros do not share a drink or popcorn at the cinema.</li>
+                <li>A Bro shall not gaze at a naked Bro</li>
+                <li>A Bro will not sleep with another Bro's sister. However, a Bro is allowed to be vocal about her level of attractiveness.</li>
+                <li>A Bro shall not wear his cell phone on a belt clip.</li>
+                <li>A Bro doesn't sing along to music in a bar.</li>
+                <li>If a Bro finds his Bro's girlfriend repulsive, they shall not say anything until they have broken up.</li>
+                <li>Bros don't use umbrellas</li>
+                <li>A Bro never wears socks with sandals.</li>
+                <li>A Bro doesn't listen to chick music... in front of other Bros.</li>
+            </random>
+        </template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* NEVER *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>* NEVER</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>NEVER *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>* SHOULDN'T *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>* SHOULDN'T</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>SHOULDN'T *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>* DOESN'T *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>* DOESN'T</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    <category>
+        <pattern>DOESN'T *</pattern>
+        <template><srai>NEVER</srai></template>
+    </category>
+    
+    <category>
+        <pattern>* 11</pattern>
+        <template>A Bro never cries.</template>
+    </category>
+    <category>
+        <pattern>* 12</pattern>
+        <template>A Bro never applies sunscreen to another Bro</template>
+    </category>
+    <category>
+        <pattern>* 13</pattern>
+        <template>A Bro never wears pink underwear.</template>
+    </category>
+    <category>
+        <pattern>* 14</pattern>
+        <template>A Bro never publicly reveals how many people another Bro has slept with.</template>
+    </category>
+    <category>
+        <pattern>* 15</pattern>
+        <template>A Bro is never vegan.</template>
+    </category>
+    <category>
+        <pattern>* 16</pattern>
+        <template>It is never acceptable for a Bro to sleep with another Bro's ex.</template>
+    </category>
+    <category>
+        <pattern>* EX *</pattern>
+        <template>It is never acceptable for a Bro to sleep with another Bro's ex.</template>
+    </category>
+    <category>
+        <pattern>* EX</pattern>
+        <template>It is never acceptable for a Bro to sleep with another Bro's ex.</template>
+    </category>
+    <category>
+        <pattern>EX *</pattern>
+        <template>It is never acceptable for a Bro to sleep with another Bro's ex.</template>
+    </category>
+    
+    <category>
+        <pattern>* 17</pattern>
+        <template>A Bro never gives another Bro the silent treatment.</template>
+    </category>
+    <category>
+        <pattern>* 18</pattern>
+        <template>A Bro never asks another Bro to come with them to the bathroom</template>
+    </category>
+    <category>
+        <pattern>* 19</pattern>
+        <template>A bro cannot give another bro a teddy bear.</template>
+    </category>    
+    <category>
+        <pattern>* 20</pattern>
+        <template>Bros never use the term 'YOLO'</template>
+    </category>
+    <category>
+        <pattern>* 21</pattern>
+        <template>A Bro never makes eye-contact with another Bro while eating a banana.</template>
+    </category>
+    <category>
+        <pattern>* 22</pattern>
+        <template>Bros do not share a drink or popcorn at the cinema.</template>
+    </category>
+    <category>
+        <pattern>* 23</pattern>
+        <template>A Bro shall not gaze at a naked Bro</template>
+    </category>
+    <category>
+        <pattern>* 24</pattern>
+        <template>A Bro will not sleep with another Bro's sister. However, a Bro is allowed to be vocal about her level of attractiveness.</template>
+    </category>
+    <category>
+        <pattern>* 25</pattern>
+        <template>A Bro shall not wear his cell phone on a belt clip.</template>
+    </category>
+    <category>
+        <pattern>* 26</pattern>
+        <template>A Bro doesn't sing along to music in a bar.</template>
+    </category>
+    <category>
+        <pattern>* 27</pattern>
+        <template>If a Bro finds his Bro's girlfriend repulsive, they shall not say anything until they have broken up.</template>
+    </category>
+    <category>
+        <pattern>* 28</pattern>
+        <template>Bros don't use umbrellas</template>
+    </category>
+    <category>
+        <pattern>* 29</pattern>
+        <template>A Bro never wears socks with sandals.</template>
+    </category>
+    <category>
+        <pattern>* 30</pattern>
+        <template>A Bro doesn't listen to chick music... in front of other Bros.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>DRINK</pattern>
+        <template>
+            <random>
+                <li>Bros take care of their fellow bros when they have too much to drink.</li>
+                <li>A Bro always offers his Bros a drink when getting one for themselves.</li>
+                <li>A Bro does not allow his Bro to drunk dial or text his ex.</li>
+            </random>
+        </template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* DRINK *</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* DRINK</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>DRINK *</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* DRUNK *</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* DRUNK</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>DRUNK *</pattern>
+        <template><srai>DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* 31</pattern>
+        <template>Bros take care of their fellow bros when they have too much to drink.</template>
+    </category>
+    <category>
+        <pattern>* 32</pattern>
+        <template>A Bro always offers his Bros a drink when getting one for themselves.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>JOB</pattern>
+        <template>A Bro ALWAYS enhances another Bro's job description when introducing him.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* JOB *</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>* JOB</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>JOB *</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>* 33</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>TOILET</pattern>
+        <template>A Bro leaves the toilet seat up for his Bros.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* TOILET *</pattern>
+        <template><srai>TOILET</srai></template>
+    </category>
+    <category>
+        <pattern>* TOILET</pattern>
+        <template><srai>TOILET</srai></template>
+    </category>
+    <category>
+        <pattern>TOILET *</pattern>
+        <template><srai>TOILET</srai></template>
+    </category>
+    <category>
+        <pattern>* 34</pattern>
+        <template><srai>TOILET</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>CAR</pattern>
+        <template>If a Bro for whatever reason needs to drive another Bro's car, they shall not adjust the preprogrammed radio stations.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* CAR *</pattern>
+        <template><srai>CAR</srai></template>
+    </category>
+    <category>
+        <pattern>* CAR</pattern>
+        <template><srai>CAR</srai></template>
+    </category>
+    <category>
+        <pattern>CAR *</pattern>
+        <template><srai>CAR</srai></template>
+    </category>
+    <category>
+        <pattern>* 35</pattern>
+        <template><srai>CAR</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>SECRET</pattern>
+        <template>If a Bro asks another Bro to keep a secret he shall take that secret to his grave.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* SECRET *</pattern>
+        <template><srai>SECRET</srai></template>
+    </category>
+    <category>
+        <pattern>* SECRET</pattern>
+        <template><srai>SECRET</srai></template>
+    </category>
+    <category>
+        <pattern>SECRET *</pattern>
+        <template><srai>SECRET</srai></template>
+    </category>
+    <category>
+        <pattern>* 36</pattern>
+        <template><srai>SECRET</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>FAILURE</pattern>
+        <template>If a Bro fails a challenge, it's ALWAYS the equipment's fault.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* FAILURE *</pattern>
+        <template><srai>FAILURE</srai></template>
+    </category>
+    <category>
+        <pattern>* FAILURE</pattern>
+        <template><srai>FAILURE</srai></template>
+    </category>
+    <category>
+        <pattern>FAILURE *</pattern>
+        <template><srai>FAILURE</srai></template>
+    </category>
+    <category>
+        <pattern>* 37</pattern>
+        <template><srai>FAILURE</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>PHONE</pattern>
+        <template>A Bro is never offended if another Bro fails to return a phone call, text or email.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* PHONE *</pattern>
+        <template><srai>PHONE</srai></template>
+    </category>
+    <category>
+        <pattern>* PHONE</pattern>
+        <template><srai>PHONE</srai></template>
+    </category>
+    <category>
+        <pattern>PHONE *</pattern>
+        <template><srai>PHONE</srai></template>
+    </category>
+    <category>
+        <pattern>* 38</pattern>
+        <template><srai>PHONE</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>CIGARS</pattern>
+        <template>A Bro pretends to understand and enjoy cigars.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* CIGARS *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* CIGARS</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>CIGARS *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* ADDICTIONS *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* ADDICTIONS</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>ADDICTIONS *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* ADDICTION *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* ADDICTION</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>ADDICTION *</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    <category>
+        <pattern>* 39</pattern>
+        <template><srai>CIGARS</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>SICK</pattern>
+        <template>A Bro never catches a cold. Bros are struck down with Man Flu.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* SICK *</pattern>
+        <template><srai>SICK</srai></template>
+    </category>
+    <category>
+        <pattern>* SICK</pattern>
+        <template><srai>SICK</srai></template>
+    </category>
+    <category>
+        <pattern>SICK *</pattern>
+        <template><srai>SICK</srai></template>
+    </category>
+    <category>
+        <pattern>* 40</pattern>
+        <template><srai>SICK</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>WOMEN</pattern>
+        <template>Women can also be a Bro.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* WOMEN *</pattern>
+        <template><srai>WOMEN</srai></template>
+    </category>
+    <category>
+        <pattern>* WOMEN</pattern>
+        <template><srai>WOMEN</srai></template>
+    </category>
+    <category>
+        <pattern>WOMEN *</pattern>
+        <template><srai>WOMEN</srai></template>
+    </category>
+    <category>
+        <pattern>* 41</pattern>
+        <template><srai>WOMEN</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>HAIRCUT</pattern>
+        <template>A Bro is not expected to notice another Bro's new haircut</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* HAIRCUT *</pattern>
+        <template><srai>HAIRCUT</srai></template>
+    </category>
+    <category>
+        <pattern>* HAIRCUT</pattern>
+        <template><srai>HAIRCUT</srai></template>
+    </category>
+    <category>
+        <pattern>HAIRCUT *</pattern>
+        <template><srai>HAIRCUT</srai></template>
+    </category>
+    <category>
+        <pattern>* 42</pattern>
+        <template><srai>HAIRCUT</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+    <pattern>FRIEND</pattern>
+    <template>A Bro of a Bro is a Bro to you.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* FRIEND *</pattern>
+        <template><srai>FRIEND</srai></template>
+    </category>
+    <category>
+        <pattern>* FRIEND</pattern>
+        <template><srai>FRIEND</srai></template>
+    </category>
+    <category>
+        <pattern>FRIEND *</pattern>
+        <template><srai>FRIEND</srai></template>
+    </category>
+    <category>
+        <pattern>* 43</pattern>
+        <template><srai>FRIEND</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>CHILDREN</pattern>
+        <template>When a Bro has a kid his Bros become honourary uncles.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* CHILDREN *</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>* CHILDREN</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>CHILDREN *</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>* KIDS *</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>* KIDS</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>KIDS *</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    <category>
+        <pattern>* 44</pattern>
+        <template><srai>CHILDREN</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>GAMBLING</pattern>
+        <template>A Bro ALWAYS honours a bet.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* GAMBLING *</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>* GAMBLING</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>GAMBLING *</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>* BET *</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>* BET</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>BET *</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    <category>
+        <pattern>* 45</pattern>
+        <template><srai>GAMBLING</srai></template>
+    </category>
+    
+    <!---->
+    <category>
+        <pattern>HEART</pattern>
+        <template>A Bro never lets his brokenhearted Bro drink alone.</template>
+    </category>
+    <!---->
+    <category>
+        <pattern>* HEART *</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>* HEART</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>HEART *</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+    <category>
+        <pattern>* 46</pattern>
+        <template><srai>JOB</srai></template>
+    </category>
+</aiml>
